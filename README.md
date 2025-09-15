@@ -47,21 +47,15 @@ Version Control: Git & GitHub
 📂 Project Structure
 VisionAI_Hackceler8/
 │── index.html         # Main webpage
-│── style.css          # Styling
-│── script.js          # Logic for detection
 │── models/            # Pre-trained models
 │── assets/            # Images, icons, etc.
 │── README.md          # Project documentation
-
-📸 Screenshots (Add Later)
-
-(Add images of your web app in action here for judges to see the UI & detection results.)
 
 🛠️ Installation / Usage
 
 Clone the repository
 
-git clone https://github.com/<username>/<team-name>_Hackceler8.git
+git clone https://github.com/<Anishparnapalli>/<Dass>_Hackceler8.git
 
 
 Open index.html in your browser.
@@ -70,16 +64,4 @@ Allow camera permissions (for webcam detection).
 
 Start detecting objects 🚀.
 
-👥 Team Members
 
-RA2311004010117 – Parnapalli Anish
-
-RA2311004010091 – N. Aakaash
-
-🔗 References
-
-TensorFlow.js
-
-COCO-SSD Model
-
-MobileNet Model
